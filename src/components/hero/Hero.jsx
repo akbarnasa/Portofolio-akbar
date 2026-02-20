@@ -40,7 +40,7 @@ const Hero = () => {
               </p>
               <div>
                 <a
-                  href="mailto:michle@test.com"
+                  href="mailto:akbarnasa5@gmail.com"
                   className="inline-block primary-btn !my-3"
                 >
                   Hubungi saya
